@@ -3,7 +3,6 @@ title: "Male Reproductive System"
 author: "Your Name"
 format: html
 bibliography: references.bib
-csl: apa.csl
 ---
 
 # Introduction
