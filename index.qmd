@@ -1,12 +1,65 @@
 ---
-title: art
-authors:
-  - name: Norah Jones
-    affiliation: The University
-    roles: writing
-    corresponding: true
+title: "Male Reproductive System"
+author: "Your Name"
+format: html
 bibliography: references.bib
+csl: apa.csl
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+# Introduction
+
+The male reproductive system is responsible for the production, maintenance, and transport of sperm, as well as the secretion of male sex hormones. These structures work together to ensure successful reproduction and play a key role in human development and sexual function.
+
+# Anatomy of the Male Reproductive System
+
+The male reproductive system consists of both external and internal organs.
+
+## External Organs
+
+The external organs include the penis and scrotum.
+
+- **Penis**: Functions in sexual intercourse and delivers sperm into the female reproductive tract.
+- **Scrotum**: A sac that houses the testes and regulates their temperature, which is essential for sperm production.
+
+## Internal Organs
+
+The internal structures include:
+
+- **Testes**: Produce sperm and testosterone.
+- **Epididymis**: Stores and matures sperm.
+- **Vas deferens**: Transports sperm from the epididymis to the urethra.
+- **Seminal vesicles**: Produce fluid that nourishes sperm.
+- **Prostate gland**: Adds alkaline fluid to semen to enhance sperm survival.
+- **Bulbourethral glands**: Secrete mucus to lubricate the urethra.
+
+# Physiology of Sperm Production
+
+Sperm production, or spermatogenesis, occurs in the seminiferous tubules of the testes. This process involves the division and maturation of germ cells into spermatozoa.
+
+Testosterone plays a crucial role in regulating spermatogenesis. It is produced by Leydig cells in the testes and influences the development of male secondary sexual characteristics.
+
+# Hormonal Regulation
+
+The male reproductive system is regulated by hormones from the hypothalamus and pituitary gland.
+
+- Gonadotropin-releasing hormone (GnRH) stimulates the release of:
+  - Luteinizing hormone (LH)
+  - Follicle-stimulating hormone (FSH)
+
+LH stimulates testosterone production, while FSH supports sperm production.
+
+# Functions of the Male Reproductive System
+
+The primary functions include:
+
+1. Production of sperm cells  
+2. Secretion of male sex hormones  
+3. Transport and delivery of sperm  
+
+These functions are essential for reproduction and maintaining male physiological traits.
+
+# Conclusion
+
+The male reproductive system is a complex network of organs and hormones that work together to ensure reproductive success. Understanding its structure and function is essential in anatomy and physiology, as well as in clinical contexts involving reproductive health.
+
+# References
