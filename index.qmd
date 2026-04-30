@@ -1,64 +1,62 @@
+
 ---
-title: "Male Reproductive System"
-author: "khadija laghzaoui"
+title: "Digestive System"
+author: "Khadija Laghzaoui"
 format: html
 bibliography: references.bib
 ---
+## Introduction
 
-# Introduction
+- The digestive system breaks down food  
+- It helps the body get nutrients  
+- Nutrients give us energy  
 
-The male reproductive system is responsible for the production, maintenance, and transport of sperm, as well as the secretion of male sex hormones. These structures work together to ensure successful reproduction and play a key role in human development and sexual function.
+---
 
-# Anatomy of the Male Reproductive System
+## Main Organs
 
-The male reproductive system consists of both external and internal organs.
+- Mouth → starts digestion  
+- Esophagus → moves food  
+- Stomach → breaks down food  
+- Small intestine → absorbs nutrients  
+- Large intestine → removes waste  
 
-## External Organs
+---
 
-The external organs include the penis and scrotum.
+## Digestion Process
 
-- **Penis**: Functions in sexual intercourse and delivers sperm into the female reproductive tract.
-- **Scrotum**: A sac that houses the testes and regulates their temperature, which is essential for sperm production.
+- Mechanical digestion → chewing  
+- Chemical digestion → enzymes break food  
 
-## Internal Organs
+---
 
-The internal structures include:
+## Absorption
 
-- **Testes**: Produce sperm and testosterone.
-- **Epididymis**: Stores and matures sperm.
-- **Vas deferens**: Transports sperm from the epididymis to the urethra.
-- **Seminal vesicles**: Produce fluid that nourishes sperm.
-- **Prostate gland**: Adds alkaline fluid to semen to enhance sperm survival.
-- **Bulbourethral glands**: Secrete mucus to lubricate the urethra.
+- Happens in the small intestine  
+- Nutrients go into the blood  
 
-# Physiology of Sperm Production
+Digestion and absorption happen in the digestive system [@openstax_ap].
 
-Sperm production, or spermatogenesis, occurs in the seminiferous tubules of the testes. This process involves the division and maturation of germ cells into spermatozoa.
+---
 
-Testosterone plays a crucial role in regulating spermatogenesis. It is produced by Leydig cells in the testes and influences the development of male secondary sexual characteristics.
+## Functions
 
-# Hormonal Regulation
+1. Break down food  
+2. Absorb nutrients  
+3. Remove waste  
 
-The male reproductive system is regulated by hormones from the hypothalamus and pituitary gland.
+---
 
-- Gonadotropin-releasing hormone (GnRH) stimulates the release of:
-  - Luteinizing hormone (LH)
-  - Follicle-stimulating hormone (FSH)
+## Conclusion
 
-LH stimulates testosterone production, while FSH supports sperm production.
+- The digestive system is important  
+- It helps the body stay healthy  
+- It provides energy  
 
-# Functions of the Male Reproductive System
+---
+---
 
-The primary functions include:
+## References
 
-1. Production of sperm cells  
-2. Secretion of male sex hormones  
-3. Transport and delivery of sperm  
-
-These functions are essential for reproduction and maintaining male physiological traits.
-
-# Conclusion
-
-The male reproductive system is a complex network of organs and hormones that work together to ensure reproductive success. Understanding its structure and function is essential in anatomy and physiology, as well as in clinical contexts involving reproductive health.
-
-# References
+::: {#refs}
+:::
